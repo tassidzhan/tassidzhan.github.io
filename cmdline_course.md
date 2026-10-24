@@ -35,3 +35,29 @@ It's kind of amazing that I've previously managed to graduate as a B.Sc. without
 #### Final Assignment: building a page
 It came as quite a surprise that the majority of effort required for the final assignment of a course ostensibly focusing on the basics of a UNIX command line would be spent on the basics of LaTeX and Overleaf to build a CV, which isn't going to be in a presentable state after this at any rate; seems like a wild swing off-topic.  
 
+##### Oh, and...
+Since I completely forgot to push my branches to github in between merges, here's an attempt to visualise the workflow that happened locally (and fulfill the requirement of a Markdown table...)
+
+
+|master			|cmdline-course		|cvpage			|
+|---			|---			|---			|
+|_original fork_	|added cmdline-course.md|_nonexistent_		|
+|_unchanged_		|tweaked same .md	|_nonexistent_		|
+|_unchanged_		|committed 		|_nonexistent_		|
+|merged w/ cmdline-course|merged to master	|_nonexistent_		|
+|_unchanged_		|_unchanged_ 		|uploaded cv .pdf to assets|
+|_unchanged_		|_unchanged_		|added link to file in layout header|
+|merged w/ cvpage	|_unchanged_		|merged to master	|
+|_unchanged_		|tweaked same .md (to add this final heading)|_unchanged_|
+|merged w/ cmdline-course|merged to master	|_unchanged_		|
+|pushed to github	|_unchanged_		|_unchanged_		|
+
+
+
+##### Finally...
+Thanks for the course! I feel I've grown from a tendency to avoid the command line to appreciating its usefulness. I won't likely become a daily or proficient user, but I _will_ be keeping it in the toolbelt for quick and dirty text processing.
+
+---
+_(pictured: me when the course materials tell you to ssh into `puhti` and CSC says don't be stupid, that's not possible!)_
+
+![stick figure looking feral and bouncing on the walls of a sparse room](https://64.media.tumblr.com/546ae9fdc15eac5c27ef093ebdb44e52/261d58099d02abf3-06/s1280x1920/00fff370dc1ddccb3636e518b5484eef77240bea.jpg)
