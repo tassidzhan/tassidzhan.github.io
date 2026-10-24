@@ -26,7 +26,8 @@ My professional Telegram nick may be found on AYY's webpage.
 
 ## Projects
 
-[Crystal Flowers in Halls of Mirrors](https://archive.bridgesmathart.org/2016/bridges2016-1.pdf), see p. 7.
+[Crystal Flowers in Halls of Mirrors](https://archive.bridgesmathart.org/2016/bridges2016-1.pdf), see p. 7 of the publication.  
+During the course, our team designed, manufactured and set up a two-part sculpture that, when viewed from a certain point in space, stereographically form a seamless Mobius band some four meters tall. The sculpture was displayed in the courtyard of the Aalto University main building from Spring 2015 until approximately 2022.
 
 ## Misc. 
 
